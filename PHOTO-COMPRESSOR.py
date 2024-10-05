@@ -1,3 +1,4 @@
+#this is a photocompressor
 import math
 from PIL import Image
 
